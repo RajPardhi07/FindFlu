@@ -41,6 +41,7 @@ body {
     position: fixed;
     top: 0;
     left: 0;
+    height: 1180px;
     /* overflow: hidden; */
     /* overscroll-behavior: none; */
 
@@ -2328,6 +2329,7 @@ textarea::placeholder {
     #canvas{
         position: fixed;
         top: 0;
+        
         left: 0;
         overflow: hidden;
         overscroll-behavior: none;
