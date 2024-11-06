@@ -2331,8 +2331,8 @@ textarea::placeholder {
         top: 0;
         
         left: 0;
-        overflow: hidden;
-        overscroll-behavior: none;
+        /* overflow: hidden; */
+        /* overscroll-behavior: none; */
     
     }
 
