@@ -37,6 +37,14 @@ body {
     src: url(./fa-brands-400\ \(2\).ttf);
 }
 
+#canvas{
+    position: fixed;
+    top: 0;
+    left: 0;
+    /* overflow: hidden; */
+    /* overscroll-behavior: none; */
+
+}
 #main {
     width: 100%;
     overflow: hidden;
@@ -2315,6 +2323,15 @@ textarea::placeholder {
         font-size: 6vw;
 
 
+    }
+
+    #canvas{
+        position: fixed;
+        top: 0;
+        left: 0;
+        overflow: hidden;
+        overscroll-behavior: none;
+    
     }
 
     .navbar {
